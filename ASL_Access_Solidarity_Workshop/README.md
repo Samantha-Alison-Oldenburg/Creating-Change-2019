@@ -15,17 +15,17 @@
   * And more!
 
 ***
-A good poem: *Eyes of Desire: A Deaf Gay and Lesbian Reader*, 1993
+A good poem: _Eyes of Desire: A Deaf Gay and Lesbian Reader_, 1993
 ***
 
 ## Intersectional Opression
 ![A picture of the deaf diversity crayons diagram. Shows that people are more than just deaf. They have other identities, hence there being more than one color of crayon.](https://static1.squarespace.com/static/53100049e4b05040160e50ef/53100ef1e4b05207a03a12a3/5314c1e1e4b01148f9510683/1393869282095/DEAF+DIVERSITY+CRAYONS+for+web.png?format=1500w "Deaf Diversity Crayons")
 
   * Deaf Diversity Crayons Resource
-  * Deaf Queers often have *Communication barriers to critical resources*
-  * Having both *physical accessibility and communication access* is unlikely
+  * Deaf Queers often have _Communication barriers to critical resources_
+  * Having both _physical accessibility and communication access_ is unlikely
     * Ex: Wheelchair area being not in line of sight of interpreter
-  * Oral Deaf and Late Deaf folks are often stuck in realm of *not hearing enough and not deaf enough*
+  * Oral Deaf and Late Deaf folks are often stuck in realm of _not hearing enough and not deaf enough_
     * This could cause people to be denied access they need
 
   **Overall, there is a need for authentic representation in accesibilty**
@@ -42,7 +42,7 @@ A good poem: *Eyes of Desire: A Deaf Gay and Lesbian Reader*, 1993
   * RID: Registration of Interpreters for the Deaf.
     * You have to be certified by them to be a pro interpreter
     * Standardized test they give is a barrier itself
-      * From a deaf person of color (paraphrased): *The standardized test is bullshit. Their requirements are not what I need as person of color. They test for dialects of ASL that's not what's used in deaf communities of color.*
+      * From a deaf person of color (paraphrased): _The standardized test is bullshit. Their requirements are not what I need as person of color. They test for dialects of ASL that's not what's used in deaf communities of color._
   * Recruiting more Interpreters of color adds more perspectives and dialects that we can reach. Without recruiting interpreters of color, ASL used by communities of color will never been seen as legitimate, making access so much hard.
 
 ### How to Recruit and Pay Them?
@@ -53,7 +53,7 @@ A good poem: *Eyes of Desire: A Deaf Gay and Lesbian Reader*, 1993
   * Don't use students. Use professionals
 
 #### Pay
-  * Have money for interpreters in your budget *at the start*
+  * Have money for interpreters in your budget _at the start_
     * If it becomes an afterthought, it's not going to happen
   * Have company sponsorships
   * Group have grants
@@ -69,7 +69,7 @@ A good poem: *Eyes of Desire: A Deaf Gay and Lesbian Reader*, 1993
     * Make sure interpreters get event resources beforehand
 
 ## FINAL DISCLAIMER
-** ASK DEAF PEOPLE WHAT THEY NEED. DON'T ASSUME. Some people prefer transliteration over interpretation for example **
+**ASK DEAF PEOPLE WHAT THEY NEED. DON'T ASSUME. Some people prefer transliteration over interpretation for example**
 
 
 ## Resources and Outreach Tips

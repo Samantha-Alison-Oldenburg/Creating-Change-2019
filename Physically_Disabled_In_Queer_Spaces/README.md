@@ -28,12 +28,10 @@
 ## How to Make Spaces More Welcoming ##
 
 > _Accessibility can be difficult, expensive, and hard work. However, it is worth it, we're worth it._
-
-> Dort Strauss, Accessibility Advocate and co-presenter of this workshop
+- Dort Strauss, Accessibility Advocate and co-presenter of this workshop
 
   * Think about accessibility from the start of planning
     * ASAN has a list of [accessibilty checkpoints](https://issuu.com/autselfadvocacy/docs/accessible-event-planning) that can help you make sure your event is more accessible
-      * It most likely has things you hadn't thought of
   * If a disabled person brings up something that's wrong
     1. Believe them
     2. Do whatever you can in the moment to mitigate the issue
@@ -53,3 +51,4 @@
     * Give them leadership power
     * Listen to them
     * Make sure you don't have _just one_ disabled person on your leadership team
+  * Include disabled people in you media/advertising

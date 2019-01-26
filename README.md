@@ -4,3 +4,4 @@ In January 2019, I went to a conference focused on radical, intersectional justi
 ## List of workshops
   * [ASL (American Sign Language) Access Solidarity](ASL_Access_Solidarity_Workshop)
   * [How to Advocate for All Gender Toliets: Lessons from Chicago](All_Gender_Toliets)
+  * [The Ableist Architecture of Queer Spaces](Ableist_Architecture_Of_Queer_Spaces)

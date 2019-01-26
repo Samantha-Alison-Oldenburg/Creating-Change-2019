@@ -27,8 +27,9 @@
 
 ## How to Make Spaces More Welcoming ##
 
-> _Accessibility can be difficult, expensive, and hard work. However, it is worth it, we're worth it._
-- Dort Strauss, Accessibility Advocate and co-presenter of this workshop
+> Accessibility can be difficult, expensive, and hard work. However, it is worth it. We are worth it.
+>
+> -- <cite>Dean Strauss, Accessibility Advocate and co-presenter of this workshop</cite>
 
   * Think about accessibility from the start of planning
     * ASAN has a list of [accessibilty checkpoints](https://issuu.com/autselfadvocacy/docs/accessible-event-planning) that can help you make sure your event is more accessible

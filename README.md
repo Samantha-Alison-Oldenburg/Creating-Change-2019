@@ -6,4 +6,5 @@ In January 2019, I went to a conference focused on radical, intersectional justi
   * [How to Advocate for All Gender Toliets: Lessons from Chicago](All_Gender_Toliets)
   * [The Ableist Architecture of Queer Spaces](Ableist_Architecture_Of_Queer_Spaces)
   * [Intersex 101: How to Enhance Your Intersex Advocacy](Intersex_101)
+  * [Dismantling White Toxic Culture](Dismantling_White_Toxic_Culture)
   * [Physically and Visibly Disabled in Queer Spaces](Physically_Disabled_In_Queer_Spaces)
